@@ -12,7 +12,7 @@ import numpy as np
 import joblib
 
 
-pipe_lr = joblib.load(open("models\emotion_classifier.pkl","rb"))
+pipe_lr = joblib.load(open("models/emotion_classifier.pkl","rb"))
 
 # Fxn
 def predict_emotions(docx):
