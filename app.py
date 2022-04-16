@@ -77,6 +77,8 @@ def main():
 
 	else:
 		st.subheader("About")
+		st.text("NLP Web app")
+		
 
 
 if __name__ == '__main__' :
