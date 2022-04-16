@@ -77,7 +77,7 @@ def main():
 
 	else:
 		st.subheader("About")
-		st.text("NLP Web app")
+		st.text("NLP Web app by Shashank Shukla")
 		
 
 
